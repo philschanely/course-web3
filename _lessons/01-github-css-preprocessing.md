@@ -27,7 +27,7 @@ So now you've probably heard of Github and might even have poked around there. M
 
 Regardless, Github is a crucial tool to add to your arsenal of tools and working with Git is a skill you should possess. Indeed, Git is something separate from Github. They both have to do with Version Control, or tracking different versions of code and files in a project.
 
-So add learning Git and Github to your list of research topics. Consider completing the [free Udacity course on Version Control with Git](https://classroom.udacity.com/courses/ud123). And don't worry... the timeblocks shown on each module there is only an estimate, and by my experience a gross overestimate.
+So add learning Git and Github to your list of research topics. Consider completing the quick and easy [try Git by CodeSchool](https://try.github.io/) or the more in depth [free Udacity course on Version Control with Git](https://classroom.udacity.com/courses/ud123). And don't worry... the timeblocks shown on each module there is only an estimate, and by my experience a gross overestimate.
 
 Bottom line here for Git is threefold:
 
@@ -35,21 +35,43 @@ Bottom line here for Git is threefold:
 2. You need to be able to set up a repo and make your own commits.
 3. You should be able to clone an existing repo for the times when such a repo provides a nice starting point for a project you're working on.
 
-So what about Github? As was mentioned in the Udacity course above, Github is an online service that allows us to host Git repositories so we can share them with colleagues and the world. Thanks to Github we can show our code to potential employers, and host projects we're working on so that other team members can access our work, and so we can reconcile our changes safely.
+So what about Github? As was mentioned in the Udacity course above, Github is an online service that allows us to host Git repositories so we can share them with colleagues and the world.
+
+Check out this nice big picture look at Github:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w3jLJU7DT5E" frameborder="0" allowfullscreen></iframe>
+
+Thanks to Github we can show our code to potential employers, and host projects we're working on so that other team members can access our work, and so we can reconcile our changes safely.
 
 I've learned a lot about how this looks and works in my first few months on the job and will post a video soon to show you more.
 
 But for now, complete the following steps:
 
 1. Create a free account with Github and customize your profile.
-2. Create a sandbox repo to test out how Github works.
-3. Download Github Desktop to use as a graphical interface for committing.
-4. Clone your sandbox repo using Github Desktop being sure to note where you place the repo. I like to use the Sites folder directly under my user folder on my Mac (peer to Documents and Downloads).
-5. Open the local repo and make some changes in your own code editor such as Atom.
-6. Commit the changes using Github desktop and what you've learned about how git commits work.
-7. Push your commits to your remote repo on Github and confirm that they appear there.
+2. Create a sandbox repo to test out how Github works. Use [this guide](https://guides.github.com/activities/hello-world/) to see how you can do a lot online directly in Github including code editing.
+3. Read this overview of the [Github Flow](https://guides.github.com/introduction/flow/) for a visual illustration of branching, committing on a branch, opening a pull request, discussing, and merging.
 
-Now you're ready for a serious project!
+But thanks to Git itself we can also clone a Github repo and work on it on our own computer. Even better, we can use a graphical tool such as Github Desktop to handle the git stuff.
+
+4. Download Github Desktop to use as a graphical interface for committing.
+5. Clone your sandbox repo using Github Desktop being sure to note where you place the repo. I like to use the Sites folder directly under my user folder on my Mac (peer to Documents and Downloads).
+
+Before we do any work locally its wise to create a branch for that work.
+
+6. In Github Desktop choose Branches > New Branch and create a new branch called `Develop` to use as a catch-all for work in progress commits.
+7. Switch to this branch using the middle dropdown.
+8. Make some changes to the local files and commit them on this branch using Github Desktop.
+
+The commits we make locally don't automatically sync up to Github, so once we've made changes we can use `git push` to publish our commits to the repo on Github.
+
+9. When ready, push the branch to the repo on Github using the rightmost "Push" option on the tool panel in Github Desktop.
+
+If you look at your repo online in Github you should see your new branch and new commits.
+
+10. Open a Pull request to look into merging it. This might feel silly without other people to discuss it with you. We'll use this moving forward for you to signal to me that you want feedback on your work in progress.
+11. Merge the pull request after resolving any conflicts (if applicable).
+
+OK. Now you're ready for a serious project!
 
 ### CSS Preprocessing with SASS
 
