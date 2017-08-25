@@ -19,21 +19,32 @@ For the purposes you might use as a designer or front end developer, the termina
 2. To quickly add common frameworks or libraries to your projects, such as adding jQuery, Bootstrap, Materialize, or any number of other such tools. These are hosted and serviced through a number of platforms such as Bower, NPM, and Yarn as well as simply cloning a repository from Github. I know that was a lot of terms you don't know, but Terminal commands basically give us quick access to things we might otherwise browse the web to find, then manually download, move into our site folder, etc. We'll look specifically at Bower and NPM in this course.
 3. To execute shortcut commands as a part of some of the libraries you added thanks to the previous step. One such example is to use a library called `browser-sync` to automagically refresh your web browser as you work on a project. You might have used Brackets before and its feature called Live Preview. This is similar, but somewhat limited in comparison to tools that become available if we learn a little command line.
 
-So, add to your list of potential research topics during this project the idea of learning some basic command line operations. Thankfully, as we start with Git in the next section, most resources that teach Git also go over or link to some good basic command line resources.
+So, add to your list of research topics during this project the idea of learning some basic command line operations. Thankfully, as we start with Git in the next section, most resources that teach Git also go over or link to some good basic command line resources.
 
-### Git and Github
+> Example video coming soon!
+
+### Version Control and Source tracking
 
 So now you've probably heard of Github and might even have poked around there. Maybe you were even tickled by the [Octocat maskot](https://octodex.github.com/) while you were there!
 
 Regardless, Github is a crucial tool to add to your arsenal of tools and working with Git is a skill you should possess. Indeed, Git is something separate from Github. They both have to do with Version Control, or tracking different versions of code and files in a project.
 
-So add learning Git and Github to your list of research topics. Consider completing the quick and easy [try Git by CodeSchool](https://try.github.io/) or the more in depth [free Udacity course on Version Control with Git](https://classroom.udacity.com/courses/ud123). And don't worry... the timeblocks shown on each module there is only an estimate, and by my experience a gross overestimate.
+#### Learn Git
+
+So first add learning Git to your list of research topics.
+
+***Complete one or both of the following:***
+
+* the quick and easy [try Git by CodeSchool](https://try.github.io/)
+* the more in depth [free Udacity course on Version Control with Git](https://classroom.udacity.com/courses/ud123). And don't worry... the timeblocks shown on each module there is only an estimate, and by my experience a gross overestimate.
 
 Bottom line here for Git is threefold:
 
 1. You need to be familiar with the concepts of version control: using a repo to manage commits for any given project.
 2. You need to be able to set up a repo and make your own commits.
 3. You should be able to clone an existing repo for the times when such a repo provides a nice starting point for a project you're working on.
+
+#### Learn Github
 
 So what about Github? As was mentioned in the Udacity course above, Github is an online service that allows us to host Git repositories so we can share them with colleagues and the world.
 
@@ -45,7 +56,7 @@ Thanks to Github we can show our code to potential employers, and host projects 
 
 I've learned a lot about how this looks and works in my first few months on the job and will post a video soon to show you more.
 
-But for now, complete the following steps:
+But for now, ***complete the following steps to get your feet wet with Github:***
 
 1. Create a free account with Github and customize your profile.
 2. Create a sandbox repo to test out how Github works. Use [this guide](https://guides.github.com/activities/hello-world/) to see how you can do a lot online directly in Github including code editing.
@@ -71,8 +82,22 @@ If you look at your repo online in Github you should see your new branch and new
 10. Open a Pull request to look into merging it. This might feel silly without other people to discuss it with you. We'll use this moving forward for you to signal to me that you want feedback on your work in progress.
 11. Merge the pull request after resolving any conflicts (if applicable).
 
-OK. Now you're ready for a serious project!
+> Video demo coming soon!
 
-### CSS Preprocessing with SASS
+OK. Now you're ready to use Git and Github for an actual project!
 
-Details coming soon!
+### CSS Preprocessing with Sass
+
+Now its time to take your CSS skills to a new level. However, I don't mean that we're going to talk about new CSS properties or techniques per se. What we're going to discuss next is how we can become more efficient and organized thanks to a technology known as CSS Preprocessing.
+
+Take a look at the [Sass](http://sass-lang.com/) main webpage. Without diving into any subpages, what would you guess this technology does?
+
+Hopefully you caught the key idea that SASS is a "CSS extension". Sass is just one of several other options for this same idea ([LESS](http://lesscss.org/) is another of the prominent ones). But what does that mean?
+
+***Well, hop on over to the [Sass Basics tutorial](http://sass-lang.com/guide) and read through it.***
+
+> Video demo of features coming soon!
+
+Given this introduction to Sass, note that implementing Sass is a key way to improve an existing project. We'll do something called "refactoring" where we rework our code base in order to improve it. You'll look for opportunities to make use of variables, add mixins, and maybe even use other features.
+
+***Finally, officially dive into your work on Project 1***
