@@ -101,3 +101,7 @@ Hopefully you caught the key idea that SASS is a "CSS extension". Sass is just o
 Given this introduction to Sass, note that implementing Sass is a key way to improve an existing project. We'll do something called "refactoring" where we rework our code base in order to improve it. You'll look for opportunities to make use of variables, add mixins, and maybe even use other features.
 
 ***Finally, officially dive into your work on Project 1***
+
+Crazy lines!!
+
+Another crazy line!
