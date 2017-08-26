@@ -104,4 +104,4 @@ Given this introduction to Sass, note that implementing Sass is a key way to imp
 
 Crazy lines!!
 
-Another crzy line!
+Another crazy line!
