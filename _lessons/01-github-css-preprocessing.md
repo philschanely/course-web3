@@ -7,7 +7,7 @@ title:  "1: Github and CSS Preprocessing"
 
 Its time. You've arrived. You're now in a class composed of folks who are serious about working on the web in some capacity. And now its time to talk about something that you might have heard of, seen, or even dabbled with---but not necessarily knowing why. What is this? The Terminal.
 
-What is the Terminal?
+#### What is the Terminal?
 
 Terminal, command line, shell---these are all vernacular names for this thing that looks like a really old computer. One where you type in commands, press return and hope you didn't just instruct your computer to blow up.
 
@@ -21,7 +21,7 @@ For the purposes you might use as a designer or front end developer, the termina
 
 So, add to your list of research topics during this project the idea of learning some basic command line operations. Thankfully, as we start with Git in the next section, most resources that teach Git also go over or link to some good basic command line resources.
 
-> Example video coming soon!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NOp2Qfo2Ce8" frameborder="0" allowfullscreen></iframe>
 
 ### Version Control and Source tracking
 
@@ -82,7 +82,9 @@ If you look at your repo online in Github you should see your new branch and new
 10. Open a Pull request to look into merging it. This might feel silly without other people to discuss it with you. We'll use this moving forward for you to signal to me that you want feedback on your work in progress.
 11. Merge the pull request after resolving any conflicts (if applicable).
 
-> Video demo coming soon!
+Watch my intro to Github for our use in this course:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O8JlmD3K9ko" frameborder="0" allowfullscreen></iframe>
 
 OK. Now you're ready to use Git and Github for an actual project!
 
@@ -96,12 +98,18 @@ Hopefully you caught the key idea that SASS is a "CSS extension". Sass is just o
 
 ***Well, hop on over to the [Sass Basics tutorial](http://sass-lang.com/guide) and read through it.***
 
-> Video demo of features coming soon!
+Watch my wwalkthrough for getting set up for Project 1 as an introduction to setting up Sass. I also discuss how to get `browser-sync` set up to auto-refresh the browser as you work.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JV2K9LEFdb8?list=PLuOViGmL7TfVd4mRweb3vhnZSrCY-WYPR" frameborder="0" allowfullscreen></iframe>
+
+Next watch a demo of what we can do with Sass.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tOC9cBrfQDE?list=PLuOViGmL7TfVd4mRweb3vhnZSrCY-WYPR" frameborder="0" allowfullscreen></iframe>
 
 Given this introduction to Sass, note that implementing Sass is a key way to improve an existing project. We'll do something called "refactoring" where we rework our code base in order to improve it. You'll look for opportunities to make use of variables, add mixins, and maybe even use other features.
 
+Last up, watch a little more detail on making a pull request after wrapping up a feature.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TKC5wnzBK4I?list=PLuOViGmL7TfVd4mRweb3vhnZSrCY-WYPR" frameborder="0" allowfullscreen></iframe>
+
 ***Finally, officially dive into your work on Project 1***
-
-Crazy lines!!
-
-Another crazy line!
