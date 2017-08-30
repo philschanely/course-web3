@@ -22,10 +22,10 @@ Here is a bird's-eye-view of the course schedule. Additional details can be foun
 | Aug 23--25    | 0    | [Lesson 0][l0]     | ---         | ---                                    |
 | Aug 26--Sep 1 | 1    | [Lesson 1][l1]     | ---         | Progress on [Project 1][p1]            |
 | Sep 2--8      | 2    | ---                | ---         | Progress on [Project 1][p1]            |
-| Sep 9--15     | 3    | ---                | ---         | Submit [Project 1][p1]                 |
+| Sep 9--15     | 3    | ---                | ---         | Submit [Project 1][p1] and post Project 1 Research in Moodle |
 | Sep 16--22    | 4    | [Lesson 2][l2]     | ---         | Progress on [Project 2][p2]            |
 | Sep 23--29    | 5    | ---                | ---         | Progress on [Project 2][p2]            |
-| Sep 30--Oct 6 | 6    | ---                | ---         | Submit [Project 2][p2]                 |
+| Sep 30--Oct 6 | 6    | ---                | ---         | Submit [Project 2][p2] and post Project 2 Research in Moodle |
 | Oct 7--13     | 7    | ---                | ---         | [Capstone Preparation A][cp-a]         |
 | Oct 14--20    | x    | Fall break         | ---         | ---                                    |
 | Oct 21--27    | 8    | [Lesson 3][l3]     | ---         | Progress on [Experimental Project][p3] |
