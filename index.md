@@ -40,7 +40,7 @@ Here is a bird's-eye-view of the course schedule. Additional details can be foun
 
 [l0]: /lessons/00-introduction.html
 [l1]: /lessons/01-github-css-preprocessing.html
-[l2]: /lessons/02-codepen-css-transitions.html
+[l2]: /lessons/02-handoff-tools.html
 [l3]: /lessons/03-experimentation.html
 
 [cp-a]: /activities/cp-a.html
