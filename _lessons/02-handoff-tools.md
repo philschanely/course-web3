@@ -33,15 +33,11 @@ Another thing is that Jekyll is free and very lightweight, so it is a great tool
 
 This said, check out the main [Jekyll documentation](https://jekyllrb.com/docs/home/) to learn more.
 
-> Demo videos coming soon! Will feature:
-> * how to set up
-> * how to create pages
-> * how to customize the layout
-> * how to generate blog posts...
-> * how to create your own loops and additional kinds of serial content
+Watch this demonstration of some key features of Jekyll:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AesJZ9gzvF8" frameborder="0" allowfullscreen></iframe>
 
 Jekyll certainly has its limitations, but you might find it a great fit for your own personal site or for a site you will help in managing over time. Since it depends on some technical expertise, there are other tools that may be more approachable to non-technical clients.
-
 
 ### WordPress
 
@@ -87,10 +83,10 @@ I recommend that you try out this tool, and discuss some rationale on the [Proje
 * I create more detailed style components that flesh this style out in more detail to consider all possible components I can imagine the site will need.
 * I look through the wireframes for the project to choose a few key interfaces to design in full to try out the components I designed above as well as discover new ones.
 
-> Examples of these deliverables coming soon!
-
 With these design work complete and signed off on, then I use Fabricator to create HTML and CSS renderings of these components. Fabricator generates a clean documentation site that I can share with developers who will build out technical components. And if I'm going to be involved in front-end development, I use this site as a base for building things out.
 
-> Video examples coming soon.
+Watch this video for an overview of Fabricator and examples of how I used it on a recent project:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bv5fEu9Hpnc" frameborder="0" allowfullscreen></iframe>
 
 Then as the project grows and changes, developers will ask for new components or new styles. I'll simply flesh them out in Sketch first if needed, then hop over and update the Fabricator source to include the new styles. Developers then just pull the latest stylesheet and can refer to the documentation as needed.
