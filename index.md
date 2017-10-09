@@ -28,14 +28,14 @@ Here is a bird's-eye-view of the course schedule. Additional details can be foun
 | Sep 30--Oct 6 | 6    | ---                | ---         | Submit [Project 2][p2] and post Project 2 Research in Moodle |
 | Oct 7--13     | 7    | ---                | ---         | [Capstone Preparation A][cp-a]         |
 | Oct 14--20    | x    | Fall break         | ---         | ---                                    |
-| Oct 21--27    | 8    | [Lesson 3][l3]     | ---         | Progress on [Experimental Project][p3] |
-| Oct 28--Nov 3 | 9    | ---                | ---         | Progress on [Experimental Project][p3] |
-| Nov 4--10     | 10   | ---                | ---         | Progress on [Experimental Project][p3] |
-| Nov 11--17    | 11   | ---                | ---         | Submit [Experimental Project][p3]      |
-| Nov 18--24    | x    | Thanksgiving break | ---         | ---                                    |
-| Nov 25--Dec 1 | 12   | Peer lessons       | ---         | Peer activity                          |
-| Dec 2--8      | 13   | Peer lessons       | ---         | Peer activity                          |
-| Dec 9--15     | 14   | ---                | ---         | [Capstone Preparation B][cp-b]         |
+| Oct 21--27    | 8    | [Lesson 3][l3]     | ---         | Progress on [Experimental Portion of Project 3][p3] |
+| Oct 28--Nov 3 | 9    | ---                | ---         | Progress on [Experimental Portion of Project 3][p3] |
+| Nov 4--10     | 10   | ---                | ---         | Progress on [Experimental Portion of Project 3][p3] |
+| Nov 11--17    | 11   | ---                | ---         | Complete and Submit [Instructional Portion of Project 3][p3] |
+| Nov 18--24    | x    | Thanksgiving break | ---         | ---             |
+| Nov 25--Dec 1 | 12   | Peer lessons 1     | ---         | Peer activity 1 |
+| Dec 2--8      | 13   | Peer lessons 2     | ---         | Peer activity 2 |
+| Dec 9--15     | 14   | ---                | ---         | [Capstone Preparation B][cp-b] |
 
 
 [l0]: /lessons/00-introduction.html
