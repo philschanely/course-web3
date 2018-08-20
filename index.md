@@ -19,23 +19,23 @@ Here is a bird's-eye-view of the course schedule. Additional details can be foun
 
 |               | Unit | Reading            | Due 5pm Tue | Due 5pm Fri                            |
 |---------------|:-----|:-------------------|:------------|:---------------------------------------|
-| Aug 23--25    | 0    | [Lesson 0][l0]     | ---         | ---                                    |
-| Aug 26--Sep 1 | 1    | [Lesson 1][l1]     | ---         | Progress on [Project 1][p1]            |
-| Sep 2--8      | 2    | ---                | ---         | Progress on [Project 1][p1]            |
-| Sep 9--15     | 3    | ---                | ---         | Submit [Project 1][p1] and post Project 1 Research in Moodle |
-| Sep 16--22    | 4    | [Lesson 2][l2]     | ---         | Progress on [Project 2][p2]            |
-| Sep 23--29    | 5    | ---                | ---         | Progress on [Project 2][p2]            |
-| Sep 30--Oct 6 | 6    | ---                | ---         | Submit [Project 2][p2] and post Project 2 Research in Moodle |
-| Oct 7--13     | 7    | ---                | ---         | [Capstone Preparation A][cp-a]         |
-| Oct 14--20    | x    | Fall break         | ---         | ---                                    |
-| Oct 21--27    | 8    | [Lesson 3][l3]     | ---         | Progress on [Experimental Portion of Project 3][p3] |
-| Oct 28--Nov 3 | 9    | ---                | ---         | Progress on [Experimental Portion of Project 3][p3] |
-| Nov 4--10     | 10   | ---                | ---         | Progress on [Experimental Portion of Project 3][p3] |
-| Nov 11--17    | 11   | ---                | ---         | Complete and Submit [Instructional Portion of Project 3][p3] |
-| Nov 18--24    | x    | Thanksgiving break | ---         | ---             |
-| Nov 25--Dec 1 | 12   | Peer lessons 1     | ---         | Peer activity 1 |
-| Dec 2--8      | 13   | Peer lessons 2     | ---         | Peer activity 2 |
-| Dec 9--15     | 14   | ---                | ---         | [Capstone Preparation B][cp-b] |
+| Aug 22--24    | 0    | [Lesson 0][l0]     | ---         | ---                                    |
+| Aug 25--31    | 1    | [Lesson 1][l1]     | ---         | Progress on [Project 1][p1]            |
+| Sep 1--7      | 2    | ---                | ---         | Progress on [Project 1][p1]            |
+| Sep 8--14     | 3    | ---                | ---         | Submit [Project 1][p1] and post Project 1 Research in Moodle |
+| Sep 15--21    | 4    | [Lesson 2][l2]     | ---         | Progress on [Project 2][p2]            |
+| Sep 22--28    | 5    | ---                | ---         | Progress on [Project 2][p2]            |
+| Sep 29--Oct 5 | 6    | ---                | ---         | Submit [Project 2][p2] and post Project 2 Research in Moodle |
+| Oct 6--12     | 7    | ---                | ---         | [Capstone Preparation A][cp-a]         |
+| Oct 13--19    | x    | Fall break         | ---         | ---                                    |
+| Oct 20--26    | 8    | [Lesson 3][l3]     | ---         | Progress on [Experimental Portion of Project 3][p3] |
+| Oct 27--Nov 2 | 9    | ---                | ---         | Progress on [Experimental Portion of Project 3][p3] |
+| Nov 3--9      | 10   | ---                | ---         | Progress on [Experimental Portion of Project 3][p3] |
+| Nov 10--16    | 11   | ---                | ---         | Complete and Submit [Instructional Portion of Project 3][p3] |
+| Nov 17--23    | x    | Thanksgiving break | ---         | ---             |
+| Nov 24--30    | 12   | Peer lessons 1     | ---         | Peer activity 1 |
+| Dec 1--7      | 13   | Peer lessons 2     | ---         | Peer activity 2 |
+| Dec 8--14     | 14   | ---                | ---         | [Capstone Preparation B][cp-b] |
 
 
 [l0]: /lessons/00-introduction.html
