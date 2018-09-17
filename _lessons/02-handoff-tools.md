@@ -69,7 +69,13 @@ When it comes specifically to WordPress themes, I've developed some documentatio
 
 ### Fabricator (recommended)
 
-With two common content management systems addressed that help with handoff to clients, this final tool allows us to switch gears and think about a different kind of handoff--that between designers and developers. The reality in the workplace today is that websites and web applications evolve and grow beyond our ability to keep up with designing each new page or feature. A major trend for designers today is to shift to a "component design" mentality where, rather than designing whole page layouts, we design smaller interchangeable components. These usually all center around a consistent brand style guide, and implement a common grid system. But within this, we can do a lot of beneficial work to prescribe a variety of styles for block content (paragraphs, headings, lists, and variations of these), colors, a grid system, and basic components like buttons and form widgets. We can also design individual components such as product thumbnail tiles, navbars, and others that will vary from one project to the next.
+With two common content management systems addressed that help with handoff to clients, this final tool allows us to switch gears and think about a different kind of handoff--that between designers and developers. The reality in the workplace today is that websites and web applications evolve and grow beyond our ability to keep up with designing each new page or feature.
+
+A major trend for designers today is to shift to a "component design" mentality where, rather than designing whole page layouts, we design smaller interchangeable components. These usually all center around a consistent brand style guide, and implement a common grid system. But within this, we can do a lot of beneficial work to prescribe a variety of styles for block content (paragraphs, headings, lists, and variations of these), colors, a grid system, and basic components like buttons and form widgets. We can also design individual components such as product thumbnail tiles, navbars, and others that will vary from one project to the next.
+
+Even more, the practice of "Design Ops" (short of operations and a nod to a parallel process on the development side of things) has emerged. Today, it is becoming very common for organizations to develop a Design System that incorporates visual style guides and a library of styled components as a foundation for developers and even additional design work.
+
+[Here is a site](https://designsystemsrepo.com/) that catalogues a great number of prominent brand design systems.
 
 The challenge becomes creating these component styles neatly in a stylesheet that can be plugged in by developers when they need it as well as creating thorough documentation that demonstrates use and provides the markup needed to build any of these components.
 
