@@ -26,7 +26,7 @@ Here is a bird's-eye-view of the course schedule. Additional details can be foun
 | Sep 15--21    | 4    | [Lesson 2][l2]     | ---         | Progress on [Project 2][p2]            |
 | Sep 22--28    | 5    | ---                | ---         | Progress on [Project 2][p2]            |
 | Sep 29--Oct 5 | 6    | ---                | ---         | Submit [Project 2][p2] and post Project 2 Research in Moodle |
-| Oct 6--12     | 7    | ---                | ---         | [Capstone Preparation A][cp-a]         |
+| Oct 6--12     | 7    | ---                | ---         | (Wrapping up P2)                       |
 | Oct 13--19    | x    | Fall break         | ---         | ---                                    |
 | Oct 20--26    | 8    | [Lesson 3][l3]     | ---         | Progress on [Experimental Portion of Project 3][p3] |
 | Oct 27--Nov 2 | 9    | ---                | ---         | Progress on [Experimental Portion of Project 3][p3] |
@@ -43,8 +43,7 @@ Here is a bird's-eye-view of the course schedule. Additional details can be foun
 [l2]: /lessons/02-handoff-tools.html
 [l3]: /lessons/03-experimentation.html
 
-[cp-a]: /activities/cp-a.html
-[cp-b]: /activities/cp-b.html
+[cap]: /activities/capstone-proposal.html
 [p1]: /activities/p1.html
 [p2]: /activities/p2.html
 [p3]: /activities/p3.html
