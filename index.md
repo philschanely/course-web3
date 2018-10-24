@@ -26,7 +26,7 @@ Here is a bird's-eye-view of the course schedule. Additional details can be foun
 | Sep 15--21    | 4    | [Lesson 2][l2]     | ---         | Progress on [Project 2][p2]            |
 | Sep 22--28    | 5    | ---                | ---         | Progress on [Project 2][p2]            |
 | Sep 29--Oct 5 | 6    | ---                | ---         | Submit [Project 2][p2] and post Project 2 Research in Moodle |
-| Oct 6--12     | 7    | ---                | ---         | (Wrapping up P2)                       |
+| Oct 6--12     | 7    | ---                | ---         | Begin thinking about [Capstone Proposal][cap] |
 | Oct 13--19    | x    | Fall break         | ---         | ---                                    |
 | Oct 20--26    | 8    | [Lesson 3][l3]     | ---         | Progress on [Experimental Portion of Project 3][p3] |
 | Oct 27--Nov 2 | 9    | ---                | ---         | Progress on [Experimental Portion of Project 3][p3] |
@@ -35,7 +35,7 @@ Here is a bird's-eye-view of the course schedule. Additional details can be foun
 | Nov 17--23    | x    | Thanksgiving break | ---         | ---             |
 | Nov 24--30    | 12   | Peer lessons 1     | ---         | Peer activity 1 |
 | Dec 1--7      | 13   | Peer lessons 2     | ---         | Peer activity 2 |
-| Dec 8--14     | 14   | ---                | Project 3 Summaries | [Capstone Preparation B][cp-b] |
+| Dec 8--14     | 14   | ---                | Project 3 Summaries | [Capstone Proposal][cap] |
 
 
 [l0]: /lessons/00-introduction.html
