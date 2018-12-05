@@ -35,7 +35,7 @@ Here is a bird's-eye-view of the course schedule. Additional details can be foun
 | Nov 17--23    | x    | Thanksgiving break | ---         | ---             |
 | Nov 24--30    | 12   | Peer lessons 1     | ---         | Peer activity 1 |
 | Dec 1--7      | 13   | Peer lessons 2     | ---         | Peer activity 2 |
-| Dec 8--14     | 14   | ---                | Project 3 Summaries | [Capstone Proposal][cap] |
+| Dec 8--14     | 14   | ---                | Project 3 Summaries | [Capstone Proposal][cap] and Lifelong Learning Paper |
 
 
 [l0]: /lessons/00-introduction.html
