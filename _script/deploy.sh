@@ -2,9 +2,9 @@
 
 if  [[ $TRAVIS_PULL_REQUEST = "false" ]]
 then
-    ncftp -E -u "$USERNAME" -p "$PASSWORD" "$HOST"<<EOF
-    rm -rf web3
-    mkdir web3
+    ncftp -u "$USERNAME" -p "$PASSWORD" "$HOST"<<EOF
+    rm -rf web3/
+    mkdir web3/
     quit
 EOF
 
