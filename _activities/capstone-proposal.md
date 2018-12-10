@@ -1,5 +1,5 @@
 ---
-title: Capstone Project: Proposals
+title: "Capstone Project -- Proposals"
 layout: activity
 ---
 
