@@ -1,5 +1,5 @@
-# Web Design I Course for LearnUXD
+# Web Design III Course for LearnUXD
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/86d38b2c-fbfd-4e0c-8a4f-ed2c1f4c7a2b/deploy-status)](https://app.netlify.com/sites/web1-staging/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ee74abc9-a4bd-4c25-b882-b6d9d2b9977b/deploy-status)](https://app.netlify.com/sites/loving-hypatia-098b38/deploys)
 
 This is just a landing place for a test page...
