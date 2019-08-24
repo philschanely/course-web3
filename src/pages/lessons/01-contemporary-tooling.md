@@ -36,21 +36,13 @@ I highly recommend that you get in the habit of using the `Sites` folder as the 
 
 For any project you set up in this class, place the project's root folder in this "Sites" folder or somewhere organized inside it. I have main folders for my full time job, my freelance work, and a "Sandbox" folder for various experiment projects.
 
-<Callout color="alternate">
-
-Video demonstration coming soon!
-
-</Callout>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yasq3skBMFg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Install Atom
 
 Install [download Atom](https://atom.io/) to use for editing your project code.
 
-<Callout color="alternate">
-
-Video introduction coming soon!
-
-</Callout>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rDrg9HphX18" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Atom is an open source tool that has many developers contributing to it, including building neat plugins to enhance its core functionality. Consider installing the following plugins:
 
@@ -128,11 +120,7 @@ Finally, navigate from the root folder for your user by starting the path with `
 
 </Callout>
 
-<Callout color="alternate">
-
-Video demonstration coming soon!
-
-</Callout>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mzfrKD8ku58" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 So, add to your list of possible research topics during this project the idea of learning some basic command line operations. One such set of operations is know as Git and its up next!
 
@@ -173,11 +161,7 @@ But thanks to Git itself we can also clone a Github repo and work on it on our o
 
 Now you can work on your own computer, commit your changes, and push them to Github to share with others or even to set up deployment.
 
-<Callout color="alternate">
-
-Video demonstration coming soon!
-
-</Callout>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQAlrGG5r_A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Gitflow: A Process and Branching Convention
 
@@ -193,11 +177,7 @@ Later we'll talk about the topic of deployment, but, in short now as a preview, 
 
 So when you set up a new repo, you are given a `master` branch by default. But don't work on it! Instead, create a `develop` branch. On solo projects you can work right there on `develop` until you're ready to merge your work into `master` as a release. But on large or collaborative projects, add new work by first creating a feature branch off of `develop`. We'll gain some experience with merging through PRs in the first mini-project.
 
-<Callout color="alternate">
-
-Video demonstration coming soon!
-
-</Callout>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y3lIddFre3Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Learn Git
 
@@ -241,11 +221,7 @@ Among this huge library of tools I've selected a few to help us organize our pro
 
 Read the first portion of this [Simple Starter](https://gist.github.com/philschanely/cd70aac7d6a4a16d09fcfdc3b7e53916) for setting up local development using some helpful NPM tools.
 
-<Callout color="alternate">
-
-Video demonstrations coming soon!
-
-</Callout>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e1-PRFPjQkM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </Subpage>
 <Subpage slug="sass">
