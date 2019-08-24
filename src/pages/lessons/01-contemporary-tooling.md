@@ -36,6 +36,12 @@ I highly recommend that you get in the habit of using the `Sites` folder as the 
 
 For any project you set up in this class, place the project's root folder in this "Sites" folder or somewhere organized inside it. I have main folders for my full time job, my freelance work, and a "Sandbox" folder for various experiment projects.
 
+<Callout color="alternate">
+
+Video demonstration coming soon!
+
+</Callout>
+
 #### Install Atom
 
 Install [download Atom](https://atom.io/) to use for editing your project code.
@@ -225,7 +231,7 @@ But today we have some better options. With just a little configuration we can b
 
 #### Install NodeJS
 
-First, install [NodeJS]https://nodejs.org/en/ (LTS Options is fine), a development helpful JavaScript-based development tool. We could spend a whole course just on NodeJS as it has become a key tool to be used by developers today.
+First, install [NodeJS](https://nodejs.org/en/) (LTS Options is fine), a development helpful JavaScript-based development tool. We could spend a whole course just on NodeJS as it has become a key tool to be used by developers today.
 
 A key feature that comes with NodeJS is called Node Package Manager or NPM. This tool makes it easy for us to add other libraries to our projects such as jQuery or Bootstrap from the worldwide library of "packages."
 
@@ -233,7 +239,7 @@ A key feature that comes with NodeJS is called Node Package Manager or NPM. This
 
 Among this huge library of tools I've selected a few to help us organize our projects and run development commands.
 
-[Read this walkthrough](https://gist.github.com/philschanely/cd70aac7d6a4a16d09fcfdc3b7e53916) for setting up local development using some helpful NPM tools.
+Read the first portion of this [Simple Starter](https://gist.github.com/philschanely/cd70aac7d6a4a16d09fcfdc3b7e53916) for setting up local development using some helpful NPM tools.
 
 <Callout color="alternate">
 
@@ -253,6 +259,8 @@ Take a look at the [Sass](http://sass-lang.com/) main webpage. Without diving in
 Hopefully you caught the key idea that SASS is a "CSS extension". Sass is just one of several other options for this same idea ([LESS](http://lesscss.org/) is another of the prominent ones). But what does that mean?
 
 Read more from the [Sass Basics tutorial](http://sass-lang.com/guide).
+
+For your own sites, review the Sass-related sections of the [Simple Starter instructions](https://gist.github.com/philschanely/cd70aac7d6a4a16d09fcfdc3b7e53916) for setting up local development using some helpful NPM tools.
 
 <Callout color="alternate">
 
