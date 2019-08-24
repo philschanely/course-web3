@@ -23,6 +23,51 @@ So, add to your list of research topics during this project the idea of learning
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NOp2Qfo2Ce8" frameborder="0" allowfullscreen></iframe>
 
+#### Basic Terminal Commands
+
+One thing to always be aware of in terminal is _where_ you are in directory tree so that you are executing commands in the right place. The basic idea here is that when you are in terminal you are always situated in a particular folder. You can tell where you are by looking at the terminal prompt line. Generally it should follow this format:
+
+```
+Computer-name:Folder username$ _
+```
+
+* `Computer-name` -- This is the name of the machine you're working on
+* `Folder` -- this is the name of the folder you're currently in
+* `username$` -- the username of the current user---you!
+
+You can also "see" where you are by using the following commands:
+
+* `pwd` -- prints the current full path to the current working directory.
+* `ls` -- shows the list of contents in the current folder.
+
+You can move around between folders using the following command:
+
+```
+cd path
+```
+
+This is short for "change directory" and you just replace `path` with a relative path. So if you are in the `Sites` folder and want to move into a folder called `my-first-project` just type:
+
+```
+cd my-first-project
+```
+
+Or to move out of a folder just type:
+
+```
+cd ../
+```
+
+You can also enter long paths to move deeper at once:
+
+```
+cd my-first-project/src/images
+```
+
+Finally, navigate from the root folder for your user by starting the path with `~/`.
+
+
+
 ### Version Control and Source tracking
 
 So now you've probably heard of Github and might even have poked around there. Maybe you were even tickled by the [Octocat maskot](https://octodex.github.com/) while you were there!
