@@ -238,10 +238,8 @@ Read more from the [Sass Basics tutorial](http://sass-lang.com/guide).
 
 For your own sites, review the Sass-related sections of the [Simple Starter instructions](https://gist.github.com/philschanely/cd70aac7d6a4a16d09fcfdc3b7e53916) for setting up local development using some helpful NPM tools.
 
-<Callout color="alternate">
+Watch this video for a demonstration of how to get set up to work with Sass and some basics of the language.
 
-Video demonstrations coming soon!
-
-</Callout>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GXiU1TMEEa0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </Subpage>
