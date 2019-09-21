@@ -9,85 +9,77 @@ import Subpage from "../../components/subpage.js"
 
 ### Overview
 
-This project gives you the chance to learn about some more complex website building systems or tools that assist with building large sites.
-You will have the choice to work with one of the following, and the one you choose will orient you towards a certain kind of project.
-
-Here are your overall benchmarks (specifics will vary depending on the option you select and the project you build):
-
-* By end of week one, select one of the options below, begin related research, and create draft design documents or other related site plans.
-* By end of week two, complete research and begin actual development work, keeping your professor posted on your progress.
-* By end of week three, finish and deploy your site or final assets.
+This project gives you the chance to practice building or working with a design system. You can choose between creating your own or implementing an existing one. Either way you must use best practices covered in course so far, use Github, and end up with a project worthy of including in your portfolio.
 
 </Subpage>
-<Subpage slug="jekyll">
+<Subpage slug="build">
 
-### Option 1: Jekyll
+### Option 1: Build Your Own
 
-Jekyll is a logical next step for someone moving into automated website systems as it only adds a few new technologies onto what you already know about HTMl, CSS, and JavaScript. But it also has limitations that keep it in the general category of "static" websites---those that you generate as a developer/designer and deploy yourself.
-This means that if you have a client project where the client does not want to edit the site themselves and does not have complicated dreams for their site, this could be a good fit. If the client is technically inclined it is feasible that you could train them to manage content since Jekyll content is written in Markdown. This said, choose to work with Jekyll on this project if you have one of the following kinds of projects in mind:
+Given what you've learned about design systems and the Fabricator framework, plan and build a small UI toolkit for a site.
 
-* A content-oriented website (no fancy user functionality features like e-commerce, etc.). Many of the projects you might have completed in other web courses fit well in the Jekyll feature set.
-* Your own personal portfolio or blog. Jekyll is particularly nice step if you have serial content such as blog posts or portfolio items you will continue to add to over time.
-
-Do not use Jekyll in the following situations:
-
-* If you need a tightly-integrated e-commerce website. Jekyll does not have any server-side code by default to support authentication, database storage, or other dynamic features.
-* If your client wants to manage their content themselves over time and is not moderately technically savvy. Jekyll expects content managers to be comfortable with a text editor and writing in Markdown.
-
-If you choose Jekyll you must do the following in order to complete this project:
-
-* Create a Github repo and use it to track your work on the site.
-* Install Jekyll in your local instance of the repo and use it to build your website. A successful project should contain at least 5 pages (ideally more), some of which must be serial content generated using the Jekyll build system (blog posts, portfolio pieces, etc.)
-* Work with your professor to consider how to deploy the finished site.
-
-</Subpage>
-<Subpage slug="wordpress">
-
-### Option 2: WordPress
-
-WordPress is another logical step for designer/developers looking to build real-world websites. It is extremely popular and very well-documented. While it runs on PHP/MySQL server technology you don't have to know these technologies well to work with WordPress. You can really vary how much you get involved with the code itself, from writing absolutely no code, to doing a high level of customization. Therefore, you can jump right in and create a WordPress site without knowing much about it---its built with non-technical users in mind. But many design agencies out there have developed proficiency with doing lots of customizations with WordPress, making it one of the leading go-to sites. With this in mind, WordPress is a great option in the following situations:
-
-* You have a client who expects to maintain their site's content over time. A little training will be needed, but it is a very approachable system for this.
-* You have a project that will have multiple contributing users who each will need a safe system they can log into to add new content and manage how that content is published and when. WordPress allows for an author/editor workflow that can help with larger content-oriented sites.
-* You have a project that demands some advanced functionality such as a contact form, newsletter subscription, or some basic e-commerce. WordPress has an expansive library of well-written plugins that allow you to add on many nice features. And since it is already depending on server technologies you can ever write your own plugins (if you feel so inclined...)
-* You want to get a website up and running very quickly that you then customize and expand over time. WordPress is easy to set up in a few minutes but has a ton of features you can expand on later. You can also install free themes to customize the look and feel or purchase them for a reasonable price and then customize them later, as opposed to having to build from scratch.
-
-Do not use Jekyll in the following situations:
-
-* If your client has very complex author/publisher workflows in mind. A commercial, paid product is likely going to be a better fit. For example, Cedarville uses the complex and costly system called SiteCore to administer its website.
-* If your client has a very large and complex e-commerce plan. In this case, a commercial, paid product is likely to be a better fit. Products range like Shopify, Salesforce, or some powered by Google or Amazon will likely be better for them in the long run.
-* If your client doesn't know what they want, but seems to have simpler hopes up front. Better to start with a leaner solution like Jekyll and upgrade to something else down the road.
-
-If you choose Wordpress you must do the following in order to complete this project:
-
-* Hosted option (if you're new to WP):
-  * Create a free hosted site on WordPress.com. Ensure that the professor is allowed administrative access to the site in order to review and assist as needed.
-  * Set up a fully functional website using the Pages and/or Posts features of the system
-  * Find and install a free theme beyond those available by default in the system. You are welcome to purchase one but not required to do so.
-* Customized option (if you worked with WP in a previous class or other setting):
-  * Work with your prof to identify where you will deploy or host the finished website.
-  * Set up a fully functional local testing version of the site on your computer and plan to use the import/export features to port content between your sandbox and production setups as needed.
-  * Either customize an existing theme or create your own. Use a Github repo to track your custom theme work.
-
-</Subpage>
-<Subpage slug="fabricator">
-
-### Option 3: Fabricator (recommended)
-
-In a totally different category of work, Fabricator does not help you build a website. Instead, it helps you build a CSS/JS framework (similar to Bootstrap, Gumby, or Materialize) that can be used by you or others to assemble a larger website consistently. Choose Fabricator for this project for the following contexts:
-
-* You would like to do a redesign of a very large website without actually rebuilding the whole thing. With Fabricator, you can prescribe styles and markup technique for a large website and provide example pages that others can use as a reference when they build out the site.
-* You would like to build a UI toolkit for a complex web application that you might not have the skills to develop yourself, but want to develop the interface. Fabricator allows you to set up components that developers can plug and play into the application, ensuring a consistent look and feel.
-* You simply want to try your hand at building a toolkit for a hypothetical site.
-
-If you choose Fabricator you must do the following in order to complete this project:
-
-* Develop a robust design style set first using design tools such as Sketch. Review this with your professor before moving into Fabricator. Include the following in your considerations:
+- You may select any topic for your context; you may choose to base this on a previous project, design something new, or create one for an existing site. Either way you must still complete each of the steps below.
+- You will create mockups in Sketch first in order to think through the colors, fonts, grid system, and a small set of components for the toolkit.
+- You must build a toolkit in Fabricator that includes the following (based on your mockups of the same):
   * Grid system (columns and baseline grid)
   * Color system
-  * Type styles (headings, paragraphs, lists, quotes, links, form fields and labels, other site-specific needs)
-  * Buttons and form widgets
-  * Image treatments
-  * Custom components based on the needs of the site, such as page banners, navigation bars, sidebars, footer, etc.
+  * Type styles (headings, paragraphs, lists, quotes, other site-specific needs)
+  * Button and hyperlink styles including normal, hover, and focus states
+  * At least four additional distinct components or structures based on the needs of the site, such as masthead and footer, page banners, navigation bars, lockups, side-by-sides, etc.
+- You must show these components in use in two separate demonstration pages within the system as demonstrated in course content. These must feel complete and purposeful.
+
+Use this schedule to complete this project:
+
+#### Week 1
+
+Choose a topic and wireframe two sample pages from the site or application. Use these to plan the requirements listed above. Complete at least your colors, grid, and typography in a Sketch mockup and sync to an InVision project for input from your professor. Be meticulous with details and consistent in your implementation of these elements.
+
+#### Week 2
+
+Finish the remaining components in your mockups and sync them to InVision. Then create a Github repo and set up Fabricator. Ensure that you have your colors and type set up in Fabricator by the end of the week. Substeps include:
+  - Set up the repo with a `master` (default) and a `develop` branch.
+  - Complete your work on the `develop` branch or on feature branches that you merge into `develop` on your own.
+  - At the end of this week create a Pull Request to merge your work from `develop` into `master` so that your professor can use this to review your work for the week. This means you should create the PR, "assign" your professor as a reviewer, **and then wait for feedback before merging the code into `master`.** Your professor will provide feedback in the form of comments and may indicate "Approval" or "Request Changes" on the PR.
+
+#### Week 3
+
+Continue to build out your mocked up components in Fabricator and create your two demonstration pages.
+  - After feedback from your professor, apply and changes requested and then merge last week's work into `master` and close the Week 2 PR.
+  - Continue your work on `develop` or feature branches that you merge into `develop` on your won.
+  - When finished, create a final PR to merge your final work from `develop` into `master`. As before, add your professor as a reviewer and wait for approval before merging.
+
+</Subpage>
+<Subpage slug="use">
+
+### Option 2: Use Another
+
+UI Toolkits have been around in a variety of shapes and forms for quite some time. [Bootstrap](https://getbootstrap.com/) is one such example; it is a library of CSS that aims to be generally unstyled (or at least easy for you to customize) but provides a robust set of common components, type styles, form styles, and grid structure to implement. Other examples include [Foundation](https://foundation.zurb.com/), Gumby, and the more opinionated [Materialize](https://materializecss.com/).
+
+With this option you can choose one of these frameworks, or any other robust design system toolkit with which to build a small website or simulated web application. You must propose the topic and content of the site, create high fidelity wireframes of the intended site, and then build them using the system. As a set of minimum requirements this project must:
+
+- Include at least four complete pages, with any other pages set up as a functional if limited "content coming soon" temporary page.
+- Implement the chosen design system smoothly and coherently
+- Be placed on Github and use best practices to track changes
+- Be worthy of included in your portfolio for job interviews
+
+Use this schedule to complete this project:
+
+#### Week 1
+
+Propose design system and submit complete, detailed wireframes for your site or application. These should not use color or final graphics but must include complete and detailed content. This way this acts as a blueprint upon which you will lay your selected design system.
+
+#### Week 2
+
+Begin to build your site out using HTML and the simple starter structure on Github (with or without Sass depending on your chosen design system). As a benchmark, aim to have all your site pages stubbed in (working navigation with at least a "content coming soon" message on each page of the site or application), configure your chosen design system, and complete at least one of the pages in full.
+  - Set up the repo with a `master` (default) and a `develop` branch.
+  - Complete your work on the `develop` branch or on feature branches that you merge into `develop` on your own.
+  - At the end of this week create a Pull Request to merge your work from `develop` into `master` so that your professor can use this to review your work for the week. This means you should create the PR, "assign" your professor as a reviewer, **and then wait for feedback before merging the code into `master`.** Your professor will provide feedback in the form of comments and may indicate "Approval" or "Request Changes" on the PR.
+
+#### Week 3
+
+Continue your work implementing the content of your other three required minimum pages using the design system and minimal additional styling.
+  - After feedback from your professor, apply and changes requested and then merge last week's work into `master` and close the Week 2 PR.
+  - Continue your work on `develop` or feature branches that you merge into `develop` on your won.
+  - When finished, create a final PR to merge your final work from `develop` into `master`. As before, add your professor as a reviewer and wait for approval before merging.
 
 </Subpage>
