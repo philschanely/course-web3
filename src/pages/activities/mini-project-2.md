@@ -1,5 +1,5 @@
 ---
-title: "Mini-Project 2: Improving Handoff"
+title: "Mini-Project 2: UI Toolkits in Use"
 type: activities
 cover: "https://source.unsplash.com/k39RGHmLoV8"
 ---
