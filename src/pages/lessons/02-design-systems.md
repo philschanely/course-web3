@@ -34,7 +34,28 @@ For more examples of this idea and inspiration for the possibilities consult the
 
 ### Mockups for Design Systems
 
-Content coming soon!
+Design Systems can be quite a big deal to put together and take a whole course in themselves. One subset of a design system that is practical to hone in on and gain experience working with in the context of this course is the component library portion. Also known as a UI toolkit, this portion of a design system prescribes actual code that should be used to create components of a particular design system. Some of the design systems you observed in the last section included component libraries.
+
+Such a component library typically includes the following:
+
+- A color scheme
+- A set of fonts and basic type styles
+- A grid system for laying out elements consistently
+- A scalable library of specific components including everything from form fields and buttons to complex structures that occur in the system
+
+In this course we'll demonstrate using the Fabricator system to build UI Toolkits.
+
+<Callout color="alternate" lead={true}>
+
+Read this [introduction to UI Toolkits](https://fbrctr.github.io/getting-started/what-is-a-toolkit.html)
+
+</Callout>
+
+Knowing that where we're going is to create this library of components and structures, it follows that we should first plan them and mock them up. Note that this comes after we've worked through wireframes and style tiles for the project and thus have a solid sense of the overall elements our project will need as well as some initial approval of the visual direction we'll be taking.
+
+Watch this demonstration of mockup techniques using Sketch:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tuDbVTt8q7c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </Subpage>
 <Subpage slug="ui-toolkit">
