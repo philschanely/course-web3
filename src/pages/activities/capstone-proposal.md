@@ -7,6 +7,8 @@ import Subpage from "../../components/subpage.js"
 
 <Subpage slug="overall">
 
+### Overall
+
 The capstone course required for students in the IXD concentration is your chance to show your professors and potential employers all that you've learned in your undergraduate degree. Accordingly, this project should be substantial, and play to your strengths and interests.
 
 [View the VCD Capstone Requirements](/docs/vcd-capstone-project.pdf)
